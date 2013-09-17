@@ -1,0 +1,19 @@
+{
+  "name": "rax2",
+  "launch_path": "/index.html",
+  "description": "rax2 tool from radare2",
+  "default_locale": "en",
+  "version": "0.9.5git",
+  "developer": {
+    "name": "pancake",
+    "url": "http://www.radare.org/"
+  },
+  "icons": {
+    "512": "/img/icon512.png",
+    "256": "/img/icon256.png",
+    "128": "/img/icon128.png",
+    "64": "/img/icon64.png",
+    "60": "/img/icon60.png",
+    "32": "/img/icon32.png"
+  }
+}
